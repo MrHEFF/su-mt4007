@@ -16,7 +16,7 @@ When you want to make changes to a repository that you have ownership of and you
 
 ### Branches
 Branching is simply said a copy of the main repo with some changes done to it but that don't affect the main repo. See the pictures below, 
-![From [https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-branches.html(The Turing Way)](https://github.com/user-attachments/assets/3f1ac53d-fa17-4137-b440-e696ed425387)
+![From The Turing Way, https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-branches.html](https://github.com/user-attachments/assets/3f1ac53d-fa17-4137-b440-e696ed425387)
 
 
 **Creating a branch** is done by using the "Current branch" tab in Git Desktop, see 

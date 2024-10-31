@@ -17,8 +17,8 @@ When you want to make changes to a repository that you have ownership of and you
 ### Branches
 Branching is simply said a copy of the main repo with some changes done to it but that don't affect the main repo.
 
-**Creating a branch** is done by using the "Current branch" tab in Git Desktop.
+- **Creating a branch** is done by using the "Current branch" tab in Git Desktop.
 
-**Deleting** is done by right clicking on any branch. 
+- **Deleting** is done by right clicking on any branch. 
 
-**Merging** is done via the "Pull request" tab. 
+- **Merging** is done via the "Pull request" tab. 

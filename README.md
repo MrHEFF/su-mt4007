@@ -15,13 +15,9 @@ Forking is the action done on a Git repo. Makes a copy of a repo and detaches fr
 When you want to make changes to a repository that you have ownership of and you want the changes to be reflected in the original repository, then you can clone the repository. For instance, if a new member joins a project, the new member can clone the project to get a hold of the code.
 
 ### Branches
-Branching is simply said a copy of the main repo with some changes done to it but that don't affect the main repo. See the pictures below, 
-![From The Turing Way, https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-branches.html](https://github.com/user-attachments/assets/3f1ac53d-fa17-4137-b440-e696ed425387)
+Branching is simply said a copy of the main repo with some changes done to it but that don't affect the main repo.
 
-
-**Creating a branch** is done by using the "Current branch" tab in Git Desktop, see 
-![Image of Git Desktop and creating a branch](https://github.com/user-attachments/assets/4cb5a758-fac7-460a-85ac-3a474cc87fff)
-and pressing "New branch". 
+**Creating a branch** is done by using the "Current branch" tab in Git Desktop.
 
 **Deleting** is done by right clicking on any branch. 
 

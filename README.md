@@ -19,7 +19,7 @@ Branching is simply said a copy of the main repo with some changes done to it bu
 ![From [https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-git-branches.html](The Turing Way)](image.png)
 
 **Creating a branch** is done by using the "Current branch" tab in Git Desktop, see 
-![alt text](image1.png)
+![image](https://github.com/user-attachments/assets/4cb5a758-fac7-460a-85ac-3a474cc87fff)
 and pressing "New branch". 
 
 **Deleting** is done by right clicking on any branch. 

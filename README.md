@@ -1,24 +1,9 @@
 # MT4007
-Repo meant for university course MT4007 - HT24. 
+Repo meant for university course MT4007 - HT24 at Stockholm University. 
 
-## Week 1
-Installing the basic software, ie. Git/GitHub, MiniConda, Jupyter and some other extras merely for aesthetics such as Visual Studio Code. 
+## Week by Week
+Week 1: Installed essential tools (Git/GitHub, MiniConda, Jupyter, VS Code) and learned key Git concepts: forking (detached copy), cloning (connected copy), and branching (separate versions). Analysis correctness requires accurate, reproducible outputs.
 
-Explained what it means for an analysis to be correct:
-1. Must output the correct output
-2. Must be reproducible by others
+Week 2: Introduced to dataframes for organizing and manipulating tabular data through operations like sorting, selecting, filtering, mutating, and grouping. Visualization emphasizes using plots effectively to interpret data, choosing appropriate visual types (e.g., line charts, bar plots) based on the analysis goal.
 
-### Forking
-Forking is the action done on a Git repo. Makes a copy of a repo and detaches from the original repo. Compared to cloning which is still connected to the original repo. Forking a repository allows you to create your own version of a project you don't own. This is useful for making changes or building upon an existing project. However, be aware of the project's licensing. Forking open-source projects is generally acceptable, but doing so with proprietary code may constitute intellectual property theft.
-
-### Cloning
-When you want to make changes to a repository that you have ownership of and you want the changes to be reflected in the original repository, then you can clone the repository. For instance, if a new member joins a project, the new member can clone the project to get a hold of the code.
-
-### Branches
-Branching is simply said a copy of the main repo with some changes done to it but that don't affect the main repo.
-
-- **Creating a branch** is done by using the "Current branch" tab in Git Desktop.
-
-- **Deleting** is done by right clicking on any branch. 
-
-- **Merging** is done via the "Pull request" tab. 
+Week 3: 

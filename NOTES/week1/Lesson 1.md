@@ -15,4 +15,3 @@ Example of analyzing data:
 
 High level we can say we do the following steps (not always a simple walk forward, sometimes we go in loops)
 - Hypothesis -> Data retrieval -> Analysis -> Conclusion
-

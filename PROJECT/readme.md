@@ -1,0 +1,2 @@
+In order to see the output of `main_report.html` or `main_report.ipynb` you can either run the html file in your default browser or open the repo in 
+the editor of your choice and make a copy of the repo and then run everything by yourself. 
